@@ -25,3 +25,6 @@ npm run preview
 ```
 npm run preview:host
 ```
+
+## Examples
+- Snippets in the `example/` folder.
